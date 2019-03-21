@@ -1,1 +1,1 @@
-# fetch-es6
+# fetch-es6 using JSONPlaceholder
